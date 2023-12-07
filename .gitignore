@@ -1,0 +1,5 @@
+*.pyc
+*.json
+**/**/wandb
+**/.ipynb_checkpoints/*
+*.txt
